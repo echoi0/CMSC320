@@ -2,3 +2,7 @@
 
    Answer: We consider using git because it streamlines the downloading and uploading of local files between the professors and students.
 It can create and merge different branches very quickly and efficiently, which removes a lot of the time that it would take usually.
+   Q2: What field could data science be applied to? Give and Example and how it might help
+
+   Answer: One field that will greatly benefit from the application of data science is the medical field, as using large-scale data modeling
+will make medicine testing and even disease tracking & prevention a lot easier.
