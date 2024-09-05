@@ -7,3 +7,8 @@ It can create and merge different branches very quickly and efficiently, which r
 
    Answer: One field that will greatly benefit from the application of data science is the medical field, as using large-scale data modeling
 will make medicine testing and even disease tracking & prevention a lot easier.
+Q3: What is the difference between merging and rebasing?
+
+Answer: The main difference between merging and rebasing is that merging combines the two branches while preserving all of the history (essentially
+being the safe option), while rebasing rewrites the previous file to fit all of the new info, which could potentially be a lot more dangerous.
+
