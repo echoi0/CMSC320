@@ -1,4 +1,6 @@
-   Q1: Why might be consider using git?
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Your answer here]   Q1: Why might be consider using git?
 
 
    Answer: We consider using git because it streamlines the downloading and uploading of local files between the professors and students.
@@ -12,3 +14,6 @@ Q3: What is the difference between merging and rebasing?
 Answer: The main difference between merging and rebasing is that merging combines the two branches while preserving all of the history (essentially
 being the safe option), while rebasing rewrites the previous file to fit all of the new info, which could potentially be a lot more dangerous.
 
+   Q3: What skills do you hope to improve during this course?
+
+   Answer: Honestly, the skill that I am hoping to improve most during this course is my data analysis and coding skills with regard to libraries. 
